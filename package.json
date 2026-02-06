@@ -1,6 +1,7 @@
 {
   "name": "cnc-gcode-generator",
   "version": "1.0.0",
+  "type": "module",
   "description": "CNC G-Code Generator with Serverless API",
   "scripts": {
     "dev": "vercel dev",
