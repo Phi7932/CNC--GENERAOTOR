@@ -1,0 +1,12 @@
+{
+  "name": "cnc-gcode-generator",
+  "version": "1.0.0",
+  "description": "CNC G-Code Generator with Serverless API",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["cnc", "gcode", "generator", "drilling", "milling"],
+  "author": "Phi7932",
+  "license": "MIT"
+}
